@@ -1,3 +1,3 @@
 # Define the variable board below.
-b = "board"
-b = [" "," "," "," "," "," "," "," "," ",]
+board = "board"
+board = [" "," "," "," "," "," "," "," "," ",]
